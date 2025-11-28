@@ -1,4 +1,5 @@
-flare-housing-register
+housing-register-flare
+
 🏠 Housing Register DApp Contract Address 0x1cce12cDF21731438446df106ed2BFcE7EFa12eD
 
 Explorer: https://coston2-explorer.flare.network/address/0x1cce12cDF21731438446df106ed2BFcE7EFa12eD
